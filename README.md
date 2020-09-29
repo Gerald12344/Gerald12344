@@ -1,10 +1,8 @@
-# Gerald12344
+Covid19 escape plan
 
-## Covid19 escape plan
-
-1. Commit
-2. Push
-3. Panic
+- Commit
+- Push
+- Panic
 
 
 <!--
