@@ -2,7 +2,12 @@
 ![Discord Logo](https://i.ibb.co/kB9yTD1/Dark-Studio.png)
 
 Owner and creator of the Discord bot Rovolution, 
+
 https://discord.com/oauth2/authorize?client_id=720377344828768257&permissions=8&scope=bot
+
+Join the support server here:
+
+https://discord.gg/xXPuh7b
 
 Come check out my repositories and see what I have been up to.
 
