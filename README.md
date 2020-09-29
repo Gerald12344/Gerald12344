@@ -1,11 +1,10 @@
-- 🔭 I’m currently working on Life
-- 🌱 I’m currently learning the meaning of life
-- 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with everything
-- 💬 Ask me about nothing
-- 📫 How to reach me: don't
-- 😄 Pronouns: ?
-- ⚡ Fun fact: Code backwards is Edoc
+# Gerald12344
+![Discord Logo](https://i.ibb.co/kB9yTD1/Dark-Studio.png)
+
+Owner and creator of the Discord bot Rovolution, 
+https://discord.com/oauth2/authorize?client_id=720377344828768257&permissions=8&scope=bot
+
+Come check out my repositories and see what I have been up to.
 
 <!--
 **Gerald12344/Gerald12344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
