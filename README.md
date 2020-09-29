@@ -1,9 +1,11 @@
-Covid19 escape plan
-
-- Commit
-- Push
-- Panic
-
+- 🔭 I’m currently working on Life
+- 🌱 I’m currently learning the meaning of life
+- 👯 I’m looking to collaborate on nothing
+- 🤔 I’m looking for help with everything
+- 💬 Ask me about nothing
+- 📫 How to reach me: don't
+- 😄 Pronouns: ?
+- ⚡ Fun fact: Code backwards is Edoc
 
 <!--
 **Gerald12344/Gerald12344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
