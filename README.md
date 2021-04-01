@@ -13,5 +13,5 @@ Come check out my repositories and see what I have been up to.
 
 - 🔭 I’m currently working on Rovolution
 - 🌱 I’m currently learning Machine Learning
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
