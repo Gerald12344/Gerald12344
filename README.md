@@ -22,5 +22,5 @@ Come check out my repositories and see what I have been up to.
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald12344&hide=python&langs_count=12a&layout=compact&theme=dark"></img>"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald12344&hide=python&langs_count=12a&layout=compact&theme=dark"></img>
  </div>
