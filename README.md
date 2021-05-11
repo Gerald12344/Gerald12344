@@ -14,7 +14,8 @@ Come check out my repositories and see what I have been up to.
 - 🔭 I’m currently working on Rovolution
 - 🌱 I’m currently learning Machine Learning
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
-
-<center>
+- - - 
+<div style="margin:auto">
   <img src="https://github-readme-stats.vercel.app/api?username=Gerald12344&private=true&show_icons=true"></img>
-</center>
+  <a href="https://github.com/Gerald12344/"></a>
+</div>
