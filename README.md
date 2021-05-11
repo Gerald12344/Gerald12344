@@ -17,12 +17,10 @@ Come check out my repositories and see what I have been up to.
 - - - 
 ## My stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gerald12344&private=true&show_icons=true&theme=dark)
-"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gerald12344&private=true&show_icons=true&theme=dark"></img>
   <a href="https://github.com/Gerald12344/"></a>
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald12344&hide=python&langs_count=12a&layout=compact&theme=dark)
-"></img>"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald12344&hide=python&langs_count=12a&layout=compact&theme=dark"></img>"></img>
  </div>
