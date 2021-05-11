@@ -15,3 +15,6 @@ Come check out my repositories and see what I have been up to.
 - 🌱 I’m currently learning Machine Learning
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
+<div style="text-align:center">
+  [![tomheaton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerald12344&private=true&show_icons=true)](https://github.com/tomheaton)
+ </div>
