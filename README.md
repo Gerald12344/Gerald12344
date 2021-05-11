@@ -16,15 +16,16 @@ Come check out my repositories and see what I have been up to.
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 - - - 
 ## My stats
-<div style="display:inline">
-<div>
+<div style="width:100%">
+<div style="display:inline;margin:auto">
   <img src="https://github-readme-stats.vercel.app/api?username=Gerald12344&private=true&show_icons=true&theme=dark"></img>
   <a href="https://github.com/Gerald12344/"></a>
 </div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald12344&hide=python&langs_count=12a&layout=compact&theme=dark"></img>
+<div style="display:inline;margin:auto">
+  <img style="min-height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald12344&hide=python&langs_count=12a&layout=compact&theme=dark"></img>
  </div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gerald12344&theme=dark"></img>
+ <br>
+<div style="display:inline;margin:auto">
+  <img style="max-height:195px;min-width:860px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gerald12344&theme=dark"></img>
  </div>
 </div>
