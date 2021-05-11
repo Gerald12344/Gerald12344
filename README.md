@@ -18,7 +18,7 @@ Come check out my repositories and see what I have been up to.
 ## My stats
 <div style="width:100%">
 <div style="display:inline;margin:auto">
-  <img style="height:50%;width:30%" src="https://github-readme-stats.vercel.app/api?username=Gerald12344&private=true&show_icons=true&theme=dark"></img>
+  <img style="height:30%;width:30%" src="https://github-readme-stats.vercel.app/api?username=Gerald12344&private=true&show_icons=true&theme=dark"></img>
   <a href="https://github.com/Gerald12344/"></a>
 </div>
 <div style="display:inline;margin:auto">
