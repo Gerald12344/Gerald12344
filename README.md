@@ -1,20 +1,7 @@
-# Gerald12344
+# 👋 I am Harvey
 
-Come check out my repositories and see what I have been up to.
+Come see what I am currently working on and my most important projects are.
 
-<!--
-**Gerald12344/Gerald12344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👯 I’m looking to collaborate on ...
-- - 😄 Pronouns: ...
-- - 📫 How to reach me: ...
-- - 💬 Ask me about ...
-- - 🤔 I’m looking for help with ...
--->
-
-- 🔭 I’m currently working on Rovolution
-- 🌱 I’m currently learning Machine Learning
-- ⚡ Fun fact: Hot water will turn into ice faster than cold water.
-- - - 
 ## My stats
 <div style="width:100%">
 <div style="display:inline;margin:auto">
@@ -28,3 +15,17 @@ Come check out my repositories and see what I have been up to.
   <img style="max-height:195px;min-width:85%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gerald12344&theme=dark&layout=compact"></img>
  </div>
 </div>
+
+<a href="https://github.com/Gerald12344">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gerald12344&show_icons=true&theme=dark&count_private=true"></img>
+  <a href="https://github.com/Gerald12344/" />
+</a>
+<a href="https://github.com/Gerald12344">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald12344&hide=python&langs_count=12a&layout=compact&theme=dark" />
+</a>
+
+<a href="https://github.com/Gerald12344">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gerald12344&theme=dark&layout=compact" />
+</a>    
