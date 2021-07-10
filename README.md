@@ -8,7 +8,7 @@ Come see what I am currently working on and my most important projects are.
 </a>
 <a href="https://github.com/Gerald12344/GCSE_Machine_Learning_Neural_Network">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Gerald12344&repo=GCSE_Machine_Learning_Neural_Network&theme=dark" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Gerald12344&repo=GCSE_Machine_Learning&theme=dark" />
 </a>
 
 ## My stats
