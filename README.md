@@ -25,6 +25,6 @@ Come check out my repositories and see what I have been up to.
   <img style="max-height:185px;width:40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald12344&hide=python&langs_count=12a&layout=compact&theme=dark"></img>
  </div>
 <div style="display:inline;margin:auto">
-  <img style="max-height:195px;min-width:85%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gerald12344&theme=dark"></img>
+  <img style="max-height:195px;min-width:85%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gerald12344&theme=dark&layout=compact"></img>
  </div>
 </div>
