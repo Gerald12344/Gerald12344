@@ -1,6 +1,6 @@
 # 👋 I am Harvey!
 
-Come see what I am currently working on and my most important projects are.
+Come see what I am currently working on and what my most important projects are.
 
 <a href="https://github.com/Gerald12344/.HarveyLanguage">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
