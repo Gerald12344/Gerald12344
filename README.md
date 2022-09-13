@@ -25,9 +25,9 @@ Come see what I am currently working on and what my most important projects are.
 
 <a href="https://github.com/Gerald12344">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gerald12344&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gerald12344&theme=dark&layout=compact" />
 </a>    
 <a href="https://github.com/Gerald12344">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald12344&hide=python&langs_count=12a&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald12344&hide=python&langs_count=12a&theme=dark&layout=compact" />
 </a>
