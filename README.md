@@ -20,7 +20,6 @@ Come see what I am currently working on and what my most important projects are.
 
   <a href="https://github.com/Gerald12344">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gerald12344&show_icons=true&theme=dark&count_private=true"></img>
-    <a href="https://github.com/Gerald12344/" />
   </a>
 
 
