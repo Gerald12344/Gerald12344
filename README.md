@@ -25,6 +25,7 @@ Come see what I am currently working on and what my most important projects are.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald12344&hide=python&langs_count=12a&layout=compact&theme=dark" />
 </a>
+<br />
 
 <a href="https://github.com/Gerald12344">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
